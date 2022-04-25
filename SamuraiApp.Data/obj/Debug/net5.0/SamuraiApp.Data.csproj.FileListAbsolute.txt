@@ -1,0 +1,15 @@
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Data/bin/Debug/net5.0/SamuraiApp.Data.deps.json
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Data/bin/Debug/net5.0/SamuraiApp.Data.dll
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Data/bin/Debug/net5.0/ref/SamuraiApp.Data.dll
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Data/bin/Debug/net5.0/SamuraiApp.Data.pdb
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Data/bin/Debug/net5.0/SamuraiApp.Domain.dll
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Data/bin/Debug/net5.0/SamuraiApp.Domain.pdb
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Data/obj/Debug/net5.0/SamuraiApp.Data.csproj.AssemblyReference.cache
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Data/obj/Debug/net5.0/SamuraiApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Data/obj/Debug/net5.0/SamuraiApp.Data.AssemblyInfoInputs.cache
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Data/obj/Debug/net5.0/SamuraiApp.Data.AssemblyInfo.cs
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Data/obj/Debug/net5.0/SamuraiApp.Data.csproj.CoreCompileInputs.cache
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Data/obj/Debug/net5.0/SamuraiApp.Data.csproj.CopyComplete
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Data/obj/Debug/net5.0/SamuraiApp.Data.dll
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Data/obj/Debug/net5.0/ref/SamuraiApp.Data.dll
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Data/obj/Debug/net5.0/SamuraiApp.Data.pdb

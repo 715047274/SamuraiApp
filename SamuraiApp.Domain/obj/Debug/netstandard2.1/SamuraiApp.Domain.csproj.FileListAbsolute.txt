@@ -1,0 +1,10 @@
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Domain/bin/Debug/netstandard2.1/SamuraiApp.Domain.deps.json
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Domain/bin/Debug/netstandard2.1/SamuraiApp.Domain.dll
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Domain/bin/Debug/netstandard2.1/SamuraiApp.Domain.pdb
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Domain/obj/Debug/netstandard2.1/SamuraiApp.Domain.csproj.AssemblyReference.cache
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Domain/obj/Debug/netstandard2.1/SamuraiApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Domain/obj/Debug/netstandard2.1/SamuraiApp.Domain.AssemblyInfoInputs.cache
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Domain/obj/Debug/netstandard2.1/SamuraiApp.Domain.AssemblyInfo.cs
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Domain/obj/Debug/netstandard2.1/SamuraiApp.Domain.csproj.CoreCompileInputs.cache
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Domain/obj/Debug/netstandard2.1/SamuraiApp.Domain.dll
+/Users/mac/dotnet_project/db_workspace/SamuraiApp/SamuraiApp.Domain/obj/Debug/netstandard2.1/SamuraiApp.Domain.pdb
